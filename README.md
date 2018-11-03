@@ -1,4 +1,4 @@
-# Tree Stairs [tree_stairs] Copyright © 2018 TumeniNodes
+ Tree Stairs [tree_stairs] Copyright © 2018 TumeniNodes
 ==========================
 A mod for Minetest Game, which adds stairs made of 'default' trees.
 Nothing more / nothing less.

@@ -19,25 +19,25 @@ Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 Authors of media files
 -----------------------
 
-Copyright © 2018 TumeniNodes
- default_acacia_tree_front.png / derived from a texture by paramat (CC BY-SA 3.0)
- default_acacia_tree_front_right.png / derived from a texture by paramat (CC BY-SA 3.0)
- default_apple_tree_front.png / derived from a texture by Cisoun's WTFPL texture pack
- default_apple_tree_front_right.png / derived from a texture by Cisoun's WTFPL texture pack
- default_aspen_tree_front.png / derived from a texture by sofar (CC BY-SA 3.0)
- default_aspen_tree_front_right.png / derived from a texture by sofar (CC BY-SA 3.0)
- default_jungletree_front.png / derived from a texture by Cisoun's WTFPL texture pack
- default_jungletree_front_right.png /  / derived from a texture by Cisoun's WTFPL texture pack
- default_pine_tree_front.png / derived from a texture by paramat (CC BY-SA 3.0)
- default_pine_tree_front_right.png / derived from a texture by paramat (CC BY-SA 3.0)
+Copyright © 2018 TumeniNodes\
+ default_acacia_tree_front.png / derived from a texture by paramat (CC BY-SA 3.0)\
+ default_acacia_tree_front_right.png / derived from a texture by paramat (CC BY-SA 3.0)\
+ default_apple_tree_front.png / derived from a texture by Cisoun's WTFPL texture pack\
+ default_apple_tree_front_right.png / derived from a texture by Cisoun's WTFPL texture pack\
+ default_aspen_tree_front.png / derived from a texture by sofar (CC BY-SA 3.0)\
+ default_aspen_tree_front_right.png / derived from a texture by sofar (CC BY-SA 3.0)\
+ default_jungletree_front.png / derived from a texture by Cisoun's WTFPL texture pack\
+ default_jungletree_front_right.png /  / derived from a texture by Cisoun's WTFPL texture pack\
+ default_pine_tree_front.png / derived from a texture by paramat (CC BY-SA 3.0)\
+ default_pine_tree_front_right.png / derived from a texture by paramat (CC BY-SA 3.0)\
  
-Mito551 (sounds) (CC BY-SA):
- default_dig_choppy.ogg
- default_dug_node.1.ogg
- default_dug_node.2.ogg
- default_wood_footstep.1.ogg
- default_wood_footstep.2.ogg
- default_dig_oddly_breakable_by_hand.ogg
- default_place_node.1.ogg
- default_place_node.2.ogg
- default_place_node.3.ogg
+Mito551 (sounds) (CC BY-SA):\
+ default_dig_choppy.ogg\
+ default_dug_node.1.ogg\
+ default_dug_node.2.ogg\
+ default_wood_footstep.1.ogg\
+ default_wood_footstep.2.ogg\
+ default_dig_oddly_breakable_by_hand.ogg\
+ default_place_node.1.ogg\
+ default_place_node.2.ogg\
+ default_place_node.3.ogg\
